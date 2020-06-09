@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 7021-6AF9
+
+ Directory of C:\Users\27725\Desktop\MyGitProjects
+
+06/09/2020  09:47 AM    <DIR>          .
+06/09/2020  09:47 AM    <DIR>          ..
+06/09/2020  09:47 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58,316,283,904 bytes free
